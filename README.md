@@ -1,2 +1,2 @@
 # Site-pessoal
-Site criado com HTML e Css
+Site pessoal criado por mim com HTML e Css, que conta um pouco da minha experiência
